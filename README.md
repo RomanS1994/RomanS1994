@@ -4,6 +4,6 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark) -->
 
 
+<hr>
 
-
-![Codewars](https://github.r2v.ch/codewars?user=RomanS1994&top_languages=true)
+<img align="center" src="![Codewars](https://github.r2v.ch/codewars?user=RomanS1994&top_languages=true)"/>
