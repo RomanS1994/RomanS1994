@@ -3,4 +3,4 @@
 </p>
 
 
-![Codewars](https://www.codewars.com/users/RomanS1994&stroke=%23BB432C)
+![Codewars](https://www.codewars.com/users/RomanS1994/badges/large)
