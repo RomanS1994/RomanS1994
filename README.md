@@ -3,5 +3,5 @@
 </p>
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark) -->
 
-![Codewars](https://www.codewars.com/users/Roman/badges/large)
+![Codewars](https://www.codewars.com/users/RomanS1994/badges/large)
 
