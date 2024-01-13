@@ -6,4 +6,4 @@
 
 <hr>
 
-<img align="center" src="![Codewars](https://github.r2v.ch/codewars?user=RomanS1994&top_languages=true)"/>
+<div align="center" src="![Codewars](https://github.r2v.ch/codewars?user=RomanS1994&top_languages=true)"> </div>
