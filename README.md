@@ -14,3 +14,12 @@
 <div align="center">
   <img src="https://www.codewars.com/users/RomanS1994/badges/large" alt="Codewars" />
 </div>
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=RomanS1994&top_languages=true" alt="Codewars Statistics" />
+</p>
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=RomanS1994&top_languages=true" alt="Codewars Statistics" />
+</p>
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=RomanS1994&top_languages=true" alt="Codewars Statistics" />
+</p>
